@@ -28,12 +28,6 @@ A comprehensive employee attendance tracking system with biometric integration a
   🔄 Password change with confirmation
   📝 Activity logging
 
-🖥️ User Interface
-Module	Screenshot
-Main Dashboard	https://Images/main_form.png
-Attendance Entry	https://Images/attendance_entry.png
-Report Generator	https://Images/reports.png
-
 📚 Documentation
   📘 User Manual
   ⚙️ Technical Specs
@@ -59,6 +53,7 @@ GitHub - @Stybo
 🛠️ Technical Overview
 
  Key Improvements:
+ 
 1. Visual Enhancements**:
    - Added shields.io badges for quick info
    - Mermaid.js diagram for system architecture
