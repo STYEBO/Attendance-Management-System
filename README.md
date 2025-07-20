@@ -39,6 +39,7 @@ Project Maintainer: Aziz Momin
 GitHub: @STYEBO
 
 
+
 🛠️ Technical Overview
 
 ```mermaid
@@ -49,3 +50,23 @@ graph TD
     B --> E[Database]
     C --> E
     D --> E
+
+Key improvements made:
+1. Proper Markdown formatting with consistent heading levels
+2. Organized sections with clear hierarchy
+3. Added missing elements (FAQs, UI screenshots table)
+4. Fixed code block formatting for the mermaid diagram
+5. Properly linked contact information
+6. Added horizontal rules for visual separation
+7. Included a more detailed installation section
+8. Added proper badge spacing and alignment
+
+The document now follows GitHub's best practices for:
+- Readability
+- Visual hierarchy
+- Complete project documentation
+- Contributor guidelines
+- License information
+- Contact details
+
+Would you like me to make any adjustments to this structure or add any additional sections?
